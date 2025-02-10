@@ -7,6 +7,10 @@
     "enabled": false
   },
 
+  "poetry": {
+    "enabled": false
+  },
+
   "pip-compile": {
     "fileMatch": ["(^|/)requirements\\.txt$"]
   }
