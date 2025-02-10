@@ -1,7 +1,12 @@
 {
   "$schema": "https://docs.renovatebot.com/renovate-schema.json",
 
-  "extends": ["config:recommended", ":disableRateLimiting"],
+  "extends": [
+    "config:recommended",
+    ":timezone(Europe/Berlin)",
+    ":label(dependencies)",
+    ":disableRateLimiting"
+  ],
 
   "pip_requirements": {
     "enabled": false
