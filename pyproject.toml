@@ -6,5 +6,5 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "simplejson==3.19.1",
-    "uv==0.5.29",
+    "uv==0.6.4",
 ]
