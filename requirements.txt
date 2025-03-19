@@ -2,5 +2,5 @@
 #    uv pip compile requirements.in --output-file=requirements.txt
 simplejson==3.19.1
     # via -r requirements.in
-uv==0.5.29
+uv==0.6.4
     # via -r requirements.in
