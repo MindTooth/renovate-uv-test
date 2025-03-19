@@ -5,6 +5,6 @@ description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
-    "simplejson==3.19.1",
+    "simplejson==3.20.1",
     "uv==0.6.4",
 ]
